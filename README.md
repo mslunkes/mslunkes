@@ -27,7 +27,7 @@
 
 </div><br/>
 
-Apaixonado por tecnologia e estudando programação para ingressar na área.
+Apaixonado por tecnologia e estudando programação.
 
 
 

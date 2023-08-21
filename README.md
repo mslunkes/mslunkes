@@ -27,7 +27,7 @@
 
 </div><br/>
 
-Apaixonado por tecnologia e estudando programação.
+Estudante de programação com o objetivo de ingressar na área como Desenvolvedor Front-End
 
 
 

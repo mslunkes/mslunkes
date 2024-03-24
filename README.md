@@ -27,7 +27,7 @@
 
 </div><br/>
 
-Estudante de programação com o objetivo de ingressar na área como Desenvolvedor Front-End
+Estudante de programação
 
 
 
